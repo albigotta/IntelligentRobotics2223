@@ -20,3 +20,7 @@ Download the BAGs from the following link: https://drive.google.com/drive/folder
 - Launch the static transform: roslaunch exercise_4_1 static_robot_tf.launch
 - Run the bag_ex_41
 - Launch the apriltag node: roslaunch exercise_4_1 iaslab_apriltag.launch
+
+### Exercise 4.2
+- Run the bag_ex_42
+- Launch the apriltag node: roslaunch exercise_4_1 iaslab_apriltag.launch
